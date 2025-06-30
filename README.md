@@ -34,5 +34,5 @@ Prompt engineering is a critical skill for:
 - langchain==0.3.25
 - openai==1.88.0
 ```
-pip install langchain openai
+conda install langchain openai
 
