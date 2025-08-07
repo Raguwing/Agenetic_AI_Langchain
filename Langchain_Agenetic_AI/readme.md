@@ -104,3 +104,5 @@ The project uses a real-world dataset of SaaS product reviews (capterra_reviews.
 👨‍💻 Author
 
 Made by Raguwing Gudla– feel free to fork and customize!
+
+# NOTE - For some reason the IPYNB file is showing error, please download it and have a look at it.
