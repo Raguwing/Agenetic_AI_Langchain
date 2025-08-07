@@ -82,10 +82,7 @@ The project uses a real-world dataset of SaaS product reviews (capterra_reviews.
 
 
 🧠 Architecture Overview
-
-          ┌─────────────┐
-          │   Reviews   │
-          └────┬────────┘
+             Reviews   
                │
         📄 Format into Documents
                │
