@@ -58,7 +58,9 @@ pip install -U langchain-community
 pip install sentence-transformers
 pip install tf-keras
 
-⚠️ If you have a CUDA-enabled GPU, install PyTorch with CUDA: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+⚠️ If you have a CUDA-enabled GPU, install PyTorch with CUDA: 
+
+* pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 ### 📂 Dataset
 The project uses a real-world dataset of SaaS product reviews (capterra_reviews.csv) with:
