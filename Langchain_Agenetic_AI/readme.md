@@ -82,21 +82,22 @@ The project uses a real-world dataset of SaaS product reviews (capterra_reviews.
 
 
 🧠 Architecture Overview
+
              Reviews   
                │
         📄 Format into Documents
                │
-        ✂️ Chunk with TextSplitter
+      ✂️ Chunk with TextSplitter
                │
-   📌 Embed with HuggingFace Embeddings
+     📌 Embed with HuggingFace Embeddings
                │
-     🔍 Store in FAISS Vector Database
+    🔍 Store in FAISS Vector Database
                │
-   🧠 LLM (Falcon-7B Instruct - HF Pipeline)
+    🧠 LLM (Falcon-7B Instruct - HF Pipeline)
                │
-      🛠️ Tool + Agent (Langchain)
+    🛠️ Tool + Agent (Langchain)
                │
-       🤖 Answer Customer Queries
+     🤖 Answer Customer Queries
 
 👨‍💻 Author
 Made by Raguwing Gudla– feel free to fork and customize!
