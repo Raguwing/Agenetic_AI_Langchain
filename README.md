@@ -1,5 +1,4 @@
-# 🧠 Agentic AI for Customer Support — Powered by Open Source LLMs & LangChain
-
+# 🧠 Agentic AI Systems
 Tired of OpenAI API keys? Want to build real-world LLM applications without breaking the bank?
 
 **This repo is for you.**
